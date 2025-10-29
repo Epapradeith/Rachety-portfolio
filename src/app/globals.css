@@ -1,10 +1,15 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import "tailwindcss"; */
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -17,6 +22,12 @@
     --background: #0a0a0a;
     --foreground: #ededed;
   }
+}
+.transition-all {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.rounded-3xl {
+  border-radius: 1.5rem;
 }
 
 body {
