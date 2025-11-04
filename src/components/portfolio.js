@@ -536,10 +536,10 @@ const handleFormSubmit = (e) => {
                 <a href="tel:+16593057249" className={`${darkMode ? 'bg-gray-800/80 hover:bg-gray-700' : 'bg-white/90 hover:bg-white'} p-2 rounded-lg shadow-md hover:scale-110 transition-all`}>
                   <Phone className={`w-3.5 h-3.5 ${darkMode ? 'text-blue-400' : 'text-blue-600'}`} />
                 </a>
-                <a href="#" className={`${darkMode ? 'bg-gray-800/80 hover:bg-gray-700' : 'bg-white/90 hover:bg-white'} p-2 rounded-lg shadow-md hover:scale-110 transition-all`}>
+                <a href="www.linkedin.com/in/epapradeith-rachety-196243111" className={`${darkMode ? 'bg-gray-800/80 hover:bg-gray-700' : 'bg-white/90 hover:bg-white'} p-2 rounded-lg shadow-md hover:scale-110 transition-all`}>
                   <Linkedin className={`w-3.5 h-3.5 ${darkMode ? 'text-cyan-400' : 'text-cyan-600'}`} />
                 </a>
-                <a href="#" className={`${darkMode ? 'bg-gray-800/80 hover:bg-gray-700' : 'bg-white/90 hover:bg-white'} p-2 rounded-lg shadow-md hover:scale-110 transition-all`}>
+                <a href="https://github.com/Epaprodith03" className={`${darkMode ? 'bg-gray-800/80 hover:bg-gray-700' : 'bg-white/90 hover:bg-white'} p-2 rounded-lg shadow-md hover:scale-110 transition-all`}>
                   <Github className={`w-3.5 h-3.5 ${darkMode ? 'text-gray-300' : 'text-gray-700'}`} />
                 </a>
               </div>
@@ -883,7 +883,7 @@ const handleFormSubmit = (e) => {
                 </a>
 
                 <a
-                  href="#"
+                  href="www.linkedin.com/in/epapradeith-rachety-196243111"
                   className={`${darkMode ? 'bg-gradient-to-br from-purple-900 to-violet-900 border border-purple-800' : 'bg-gradient-to-br from-purple-100 to-violet-200 border border-purple-300'} backdrop-blur-sm rounded-2xl p-8 shadow-xl card-hover fade-in-up delay-300 flex flex-col items-center justify-center group`}
                 >
                   <div className={`${darkMode ? 'bg-gray-900/60' : 'bg-white/80'} p-5 rounded-xl group-hover:scale-110 transition-transform`}>
@@ -893,7 +893,7 @@ const handleFormSubmit = (e) => {
                 </a>
 
                 <a
-                  href="#"
+                  href="https://github.com/Epaprodith03"
                   className={`${darkMode ? 'bg-gradient-to-br from-gray-800 to-gray-900 border border-gray-700' : 'bg-gradient-to-br from-gray-200 to-gray-300 border border-gray-400'} backdrop-blur-sm rounded-2xl p-8 shadow-xl card-hover fade-in-up delay-400 flex flex-col items-center justify-center group`}
                 >
                   <div className="bg-white/90 p-5 rounded-xl group-hover:scale-110 transition-transform">
